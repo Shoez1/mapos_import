@@ -5,8 +5,9 @@ Este pequeno projeto é uma ferramenta para auxiliar antigos e novos usuários d
 ***RECOMENDO USAR ESSE PROJETO LOCALMENTE PARA EVITAR PROBLEMAS DE SEGURAÇÃO CASO SEJA HOSPEDADO***
 
 Instalação:
-  1 . Baixe o projeto e descompacte na raiz do Xampp pasta htdocs.
-  2 . Configure o arquivo .env com as informações do seu DB Mapos, recomendo usar um banco novo para evitar erros em produção.
+
+  1.Baixe o projeto e descompacte na raiz do Xampp pasta htdocs.
+  2.Configure o arquivo .env com as informações do seu DB Mapos, recomendo usar um banco novo para evitar erros em produção.
   
     DB_HOST=localhost
     DB_USER=root
