@@ -79,7 +79,7 @@ $result = $conn->query($sql);
         <p class="text-center mt-3">Projeto Mapos & Galerinha do suporte :)</p>
         <div class="links-uteis text-center mt-3">
             <a href="https://github.com/RamonSilva20/mapos" target="_blank">
-                <p><?= date('Y'); ?> &copy; Ramon Silva</p>
+                <p>Baixe o Mapos aqui !</p>
             </a>
         </div>
     </div>
