@@ -1,4 +1,4 @@
-Importador de tabelas .xlsx (Excel) para sistema Mapos.
+# Importador de tabelas .xlsx (Excel) para sistema Mapos.
 
 Este pequeno projeto é uma ferramenta para auxiliar antigos e novos usuários do mapos a importar informações diretamente para as tabelas do banco de dados.
 
@@ -18,8 +18,8 @@ Instalação:
   Acesse o projeto pelo navegador
   Exemplo: http://localhost:/mapos_import
 
-  # Na tela principal selecione a tabela que deseja importar, e o arquivo Excel.
-  # Na pasta do projeto já tem algumas como exemplo, os arquivos tem as mesmas colunas das suas respectivas tabelas no db, basta colocar as informações corretas nas colunas e importar.
+   Na tela principal selecione a tabela que deseja importar, e o arquivo Excel.
+   Na pasta do projeto já tem algumas como exemplo, os arquivos tem as mesmas colunas das suas respectivas tabelas no db, basta colocar as informações corretas nas colunas e importar.
 
   ![image](https://github.com/Shoez1/mapos_import/assets/52619128/4e36a9bb-0485-4324-801a-ed625f16af36)
 
