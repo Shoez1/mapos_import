@@ -22,7 +22,8 @@ Instalação:
    Na tela principal selecione a tabela que deseja importar, e o arquivo Excel.
    Na pasta do projeto já tem algumas como exemplo, os arquivos tem as mesmas colunas das suas respectivas tabelas no db, basta colocar as informações corretas nas colunas e importar.
 
-  ![image](https://github.com/Shoez1/mapos_import/assets/52619128/4e36a9bb-0485-4324-801a-ed625f16af36)
+  ![image](https://github.com/Shoez1/mapos_import/assets/52619128/e1328579-e5b7-4b3b-8a84-6ccc192a2602)
+
 
 
  
