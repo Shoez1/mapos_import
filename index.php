@@ -76,6 +76,12 @@ $result = $conn->query($sql);
         <div class="progress">
             <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
+        <p class="text-center mt-3">Projeto Mapos & Galerinha do suporte :)</p>
+        <div class="links-uteis text-center mt-3">
+            <a href="https://github.com/RamonSilva20/mapos" target="_blank">
+                <p><?= date('Y'); ?> &copy; Ramon Silva</p>
+            </a>
+        </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
