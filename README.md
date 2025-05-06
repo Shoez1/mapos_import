@@ -1,8 +1,6 @@
----
-***ESSE PROJETO FOI DESCONTINUADO E REMODELADO***
-USE A NOVA VERSÃO FEITA EM C#
-https://github.com/Shoez1/ExcelImporter
----
+❗ ATENÇÃO: ESTE PROJETO FOI DESCONTINUADO E REMODELADO
+A nova versão foi desenvolvida em C# e está disponível no repositório abaixo:
+🔗 https://github.com/Shoez1/ExcelImporter
 
 # Importador de tabelas .xlsx (Excel) para sistema Mapos.
 
