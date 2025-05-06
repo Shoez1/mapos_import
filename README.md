@@ -1,3 +1,9 @@
+---
+***ESSE PROJETO FOI DESCONTINUADO E REMODELADO***
+USE A NOVA VERSÃO FEITA EM C#
+https://github.com/Shoez1/ExcelImporter
+---
+
 # Importador de tabelas .xlsx (Excel) para sistema Mapos.
 
 Este pequeno projeto é uma ferramenta para auxiliar antigos e novos usuários do mapos a importar informações diretamente para as tabelas do banco de dados.
